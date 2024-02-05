@@ -7,7 +7,7 @@ If you're not reading this on Github, this is [my Github!](https://github.com/jo
 Keep in mind that this is an archive! My more significant projects (as of now) are linked here:\
 [Gomoku in Turtle](https://github.com/joeychild/gomoku_turtle)\
 [Chess Bot](https://github.com/joeychild/chess)\
-[YT Downloader](https://github.com/joeychild/yt_downloader)\
+[YT Downloader](https://github.com/joeychild/yt_downloader)
 
 Other than that, have a great rest of your day! Hope you have a great time looking around here, and see you soon!
 
